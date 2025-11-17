@@ -1,0 +1,52 @@
+2 files left unchanged.
+Repo card metadata block was not found. Setting CardData to empty.
+Preprocessing texts...
+Computing super-maximal repeats...
+Sample super-maximal repeats:
+-  the state s governor
+- s relations with the 
+- , where the cultural 
+- e, reflecting contemporary 
+-  recipes that highlight 
+- t.
+Jesse Green
+Critic
+Th
+-  lies in the ability to 
+-  in the cooking process, 
+- ing the financial burden on 
+-  of arts and culture, 
+Found 37651 super-maximal repeats.
+Trained and saved 1 models so far.
+Trained and saved 2 models so far.
+Trained and saved 3 models so far.
+Trained and saved 4 models so far.
+Trained and saved 5 models so far.
+Trained and saved 6 models so far.
+Trained and saved 7 models so far.
+Trained and saved 8 models so far.
+Trained and saved 9 models so far.
+Trained and saved 10 models so far.
+Scoring documents...
+
+Evaluating performance...
+Precision at 7321: 0.9132632154077311
+
+Confusion Matrix:
+TP: 6686, FP: 635
+FN: 635, TN: 6660
+Accuracy: 0.9131
+Precision: 0.9133
+Recall/TPR: 0.9133
+Specificity/TNR: 0.9130
+FPR: 0.0870
+FNR: 0.0867
+F1 Score: 0.9133
+
+Statistical Significance Tests:
+Binomial test p-value (accuracy > 0.5): 0.0000e+00
+Chi-square test p-value (independence): 0.0000e+00
+
+Conclusion: The method shows statistically significant performance better than random guessing 
+(binomial p-value = 0.0000e+00 < 0.05, chi-square p-value = 0.0000e+00 < 0.05). 
+This validates the effectiveness of Gallé's method in distinguishing AI-generated (GPT-4o) text from human-written text on the small subset of Roy's dataset.

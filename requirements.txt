@@ -1,0 +1,12 @@
+isort==5.13.2
+git+https://github.com/pre63/black.git
+scikit-learn
+scipy
+numpy
+datasets
+spacy
+markdown
+beautifulsoup4
+transformers
+torch
+git+https://github.com/pre63/super-maximal-repeats.git
